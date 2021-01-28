@@ -74,6 +74,9 @@ a[x-apple-data-detectors] {
     .es-menu td a {
         font-size: 16px!important
     }
+    .es-footer-body {
+        float: right;
+    }
     .es-header-body p,
     .es-header-body ul li,
     .es-header-body ol li,
@@ -148,6 +151,16 @@ a[x-apple-data-detectors] {
     .adapt-img {
         width: 100%!important;
         height: auto!important
+    }
+    .adapt-img-icon {
+        width: auto!important;
+        height: auto!important;
+    }
+    .adapt-img-link {
+        width: 40px;
+        height: 40px;
+        padding: 5px;
+        margin: 0px 10px 0px 10px;
     }
     .es-m-p0 {
         padding: 0px!important
